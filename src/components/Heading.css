@@ -1,0 +1,17 @@
+.App-header{
+    background-color: #222;
+    font-size: 0.65em;
+    font-family: "Monaco", monospace;
+    height: 85px;
+    padding: 25px;
+    margin: -8px;
+    color: white;
+}
+
+.App-logo {
+    height: 60px;
+    position: absolute;
+    top: 30px;
+    left: 50px;
+
+}

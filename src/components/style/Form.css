@@ -1,0 +1,79 @@
+.split {
+    width: 50%;
+    position: fixed;
+    z-index: 1;
+    top: 0;
+    overflow-x: hidden;
+    padding-top: 20px;
+
+}
+.left {
+    left: 4px;
+    position: fixed;
+    top: 80px;
+    /*border: 7px inset #001c5b;*/
+
+    width: 305px;
+    height: auto;
+    zoom: 1;
+    background: rgba(255,255,255,0.5);
+    filter: alpha(opacity=30);
+    opacity: 1.55;
+
+
+}
+.right {
+    right: 280px;
+    max-width: 800px;
+    height: auto;
+    position: fixed;
+    top: 60px;
+
+
+}
+.mdsize{
+    size: 10px;
+}
+.md-card {
+     width: 320px;
+     margin: 4px;
+     display: inline-block;
+     vertical-align: top;
+ }.action{
+    height: 30px;
+    background-color: transparent;
+  }
+
+
+.centered {
+    word-break-inside: pre;
+    position: absolute;
+    top: 280px;
+    left: 180px;
+    transform: translate(-50%, -50%);
+    text-align: center;
+}
+.car-form {
+    height: 50px;
+    position: absolute;
+    top: 0;
+    left: 100px;
+    white-space: pre;
+}
+.font{
+    text-align: center;
+    font-family: "Monaco", monospace;
+    font-size: 1.0em;
+
+}
+.input{
+    display: none;
+}
+.inputForm{
+    background-color: transparent;
+  }
+#preview img {
+    max-width: 100%;
+    max-height: 500px;
+}
+
